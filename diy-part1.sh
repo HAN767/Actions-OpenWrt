@@ -27,3 +27,8 @@ echo 'src-git openwrt_core https://mirrors.cloud.tencent.com/lede/snapshots/targ
 echo 'src-git openwrt_luci https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/luci
 echo 'src-git openwrt_packages https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/packages
 echo 'src-git openwrt_routing https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/routing
+echo 'src-git vernesong https://github.com/vernesong/OpenClash
+echo 'src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall
+echo 'src-git tty https://github.com/tty228/luci-app-serverchan
+echo 'src-git destan https://github.com/destan19/OpenAppFilter.git
+echo 'src-git helloworld https://github.com/fw876/helloworld
