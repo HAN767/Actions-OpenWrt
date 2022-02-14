@@ -16,19 +16,9 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-echo 'src-git jerrykuku https://github.com/jerrykuku/luci-theme-argon
-echo 'src-git LuttyYang https://github.com/LuttyYang/luci-theme-material
-echo 'src-git rosywrt https://github.com/rosywrt/luci-theme-rosy
-echo 'src-git apollo-ng https://github.com/apollo-ng/luci-theme-darkmatter
-echo 'src-git xiaoqingfengATGH https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom
-echo 'src-git nutbolt https://github.com/nutbolt/luci-theme-bootstrap
-echo 'src-git tano-system https://github.com/tano-systems/luci-theme-tano
-echo 'src-git openwrt_core https://mirrors.cloud.tencent.com/lede/snapshots/targets/x86/64/packages
-echo 'src-git openwrt_luci https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/luci
-echo 'src-git openwrt_packages https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/packages
-echo 'src-git openwrt_routing https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/routing
 echo 'src-git vernesong https://github.com/vernesong/OpenClash
 echo 'src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall
+echo 'src-git jerrykuku https://github.com/jerrykuku/luci-theme-argon
 echo 'src-git tty https://github.com/tty228/luci-app-serverchan
 echo 'src-git destan https://github.com/destan19/OpenAppFilter.git
 echo 'src-git helloworld https://github.com/fw876/helloworld
